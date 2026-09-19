@@ -1,0 +1,4 @@
+Confronto,Vitórias P1,Vitórias P2,Média Turnos
+Rule-Based vs Random,Rule-Based (15),Random (5),34.6
+Q-learning vs Random,Q-learning (16),Random (4),45.6
+Rule-Based vs Q-learning,Rule-Based (11),Q-learning (9),40.9

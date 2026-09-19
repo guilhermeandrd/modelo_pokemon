@@ -1,0 +1,171 @@
+Partida,Turno,Jogador,Narração
+1,1,Rule-Based (P1),Confirmou seleção (Sim/Não)
+1,2,Rule-Based (P1),📌 Colocou [Pokémon Básico Inicial] como Pokémon Ativo Inicial
+1,3,Random (P2),📌 Colocou [Pokémon Básico Inicial] como Pokémon Ativo Inicial
+1,4,Rule-Based (P1),⚡ Ligou a energia [Carta de Energia] no [Kyogre](150/150 HP)
+1,5,Rule-Based (P1),Passou o turno
+1,6,Random (P2),⚡ Ligou a energia [Carta de Energia] no [Snover](90/90 HP)
+1,7,Random (P2),Passou o turno
+1,8,Rule-Based (P1),⚡ Ligou a energia [Carta de Energia] no [Kyogre](150/150 HP)
+1,9,Rule-Based (P1),🃏 Jogou da mão a carta [Carta de Treinador/Pokémon]
+1,10,Rule-Based (P1),🃏 Jogou da mão a carta [Carta de Treinador/Pokémon]
+1,11,Rule-Based (P1),📥 Selecionou a carta [Carta do Deck/Descarte] para a Mão por efeito de [Mega Signal]
+1,12,Rule-Based (P1),🃏 Jogou da mão a carta [Carta de Treinador/Pokémon]
+1,13,Rule-Based (P1),🃏 Jogou da mão a carta [Carta de Treinador/Pokémon]
+1,14,Rule-Based (P1),🃏 Jogou da mão a carta [Carta de Treinador/Pokémon]
+1,15,Rule-Based (P1),📥 Selecionou a carta [Carta do Deck/Descarte] para a Mão por efeito de [Mega Signal]
+1,16,Rule-Based (P1),⚔️ Kyogre(150/150 HP) atacou com [Riptide] o Snover(90/90 HP)
+1,17,Random (P2),⚡ Ligou a energia [Carta de Energia] no [Snover](90/90 HP)
+1,18,Random (P2),⚔️ Snover(90/90 HP) atacou com [Beat] o Kyogre(150/150 HP)
+1,19,Rule-Based (P1),🃏 Jogou da mão a carta [Carta de Treinador/Pokémon]
+1,20,Rule-Based (P1),⚡ Ligou a energia [Carta de Energia] no [Kyogre](140/150 HP)
+1,21,Rule-Based (P1),🧬 Evoluiu o [Snover](90/90 HP) para [Pokémon Evoluído]
+1,22,Rule-Based (P1),🃏 Jogou da mão a carta [Carta de Treinador/Pokémon]
+1,23,Rule-Based (P1),⚔️ Kyogre(140/150 HP) atacou com [Riptide] o Snover(90/90 HP)
+1,24,Random (P2),⚡ Ligou a energia [Carta de Energia] no [Snover](90/90 HP)
+1,25,Random (P2),🃏 Jogou da mão a carta [Carta de Treinador/Pokémon]
+1,26,Random (P2),⚔️ Snover(90/90 HP) atacou com [Beat] o Kyogre(140/150 HP)
+1,27,Rule-Based (P1),⚡ Ligou a energia [Carta de Energia] no [Kyogre](130/150 HP)
+1,28,Rule-Based (P1),⚔️ Kyogre(130/150 HP) atacou com [Riptide] o Snover(90/90 HP)
+1,29,Random (P2),⚔️ Snover(90/90 HP) atacou com [Icy Snow] o Kyogre(130/150 HP)
+1,30,Rule-Based (P1),⚡ Ligou a energia [Carta de Energia] no [Kyogre](100/150 HP)
+1,31,Rule-Based (P1),🃏 Jogou da mão a carta [Carta de Treinador/Pokémon]
+1,32,Rule-Based (P1),📥 Selecionou a carta [Carta do Deck/Descarte] para a Mão por efeito de [Mega Signal]
+1,33,Rule-Based (P1),🧬 Evoluiu o [Snover](90/90 HP) para [Pokémon Evoluído]
+1,34,Rule-Based (P1),⚔️ Kyogre(100/150 HP) atacou com [Riptide] o Snover(90/90 HP)
+1,35,Random (P2),⚡ Ligou a energia [Carta de Energia] no [Snover](90/90 HP)
+1,36,Random (P2),🃏 Jogou da mão a carta [Carta de Treinador/Pokémon]
+1,37,Random (P2),📥 Selecionou a carta [Carta do Deck/Descarte] para a Mão por efeito de [Mega Signal]
+1,38,Random (P2),Passou o turno
+1,39,Rule-Based (P1),⚡ Ligou a energia [Carta de Energia] no [Kyogre](100/150 HP)
+1,40,Rule-Based (P1),🃏 Jogou da mão a carta [Carta de Treinador/Pokémon]
+1,41,Rule-Based (P1),🎯 Selecionou a carta [Carta Selecionada] por efeito de [Waitress]
+1,42,Rule-Based (P1),🎯 Selecionou a carta [Carta Selecionada] por efeito de [Basic {W} Energy]
+1,43,Rule-Based (P1),⚔️ Kyogre(100/150 HP) atacou com [Riptide] o Snover(90/90 HP)
+1,44,Random (P2),⚡ Ligou a energia [Carta de Energia] no [Snover](90/90 HP)
+1,45,Random (P2),⚔️ Snover(90/90 HP) atacou com [Beat] o Kyogre(100/150 HP)
+1,46,Rule-Based (P1),⚡ Ligou a energia [Carta de Energia] no [Kyogre](90/150 HP)
+1,47,Rule-Based (P1),⚔️ Kyogre(90/150 HP) atacou com [Riptide] o Snover(90/90 HP)
+1,48,Random (P2),⚔️ Snover(90/90 HP) atacou com [Beat] o Kyogre(90/150 HP)
+1,49,Rule-Based (P1),⚡ Ligou a energia [Carta de Energia] no [Kyogre](80/150 HP)
+1,50,Rule-Based (P1),⚔️ Kyogre(80/150 HP) atacou com [Riptide] o Snover(90/90 HP)
+1,51,Random (P2),⚔️ Snover(90/90 HP) atacou com [Icy Snow] o Kyogre(80/150 HP)
+1,52,Rule-Based (P1),⚡ Ligou a energia [Carta de Energia] no [Kyogre](50/150 HP)
+1,53,Rule-Based (P1),⚔️ Kyogre(50/150 HP) atacou com [Riptide] o Snover(90/90 HP)
+1,54,Random (P2),⚡ Ligou a energia [Carta de Energia] no [Snover](90/90 HP)
+1,55,Random (P2),⚡ Ligou a energia [Carta de Energia] no [Snover](90/90 HP)
+1,56,Random (P2),Passou o turno
+1,57,Rule-Based (P1),⚡ Ligou a energia [Carta de Energia] no [Kyogre](50/150 HP)
+1,58,Rule-Based (P1),⚔️ Kyogre(50/150 HP) atacou com [Riptide] o Snover(90/90 HP)
+1,59,Random (P2),⚡ Ligou a energia [Carta de Energia] no [Snover](90/90 HP)
+1,60,Random (P2),🃏 Jogou da mão a carta [Carta de Treinador/Pokémon]
+1,61,Random (P2),🎯 Selecionou a carta [Carta Selecionada] por efeito de [Waitress]
+1,62,Random (P2),🎯 Selecionou a carta [Carta Selecionada] por efeito de [Basic {W} Energy]
+1,63,Random (P2),🧬 Evoluiu o [Snover](90/90 HP) para [Pokémon Evoluído]
+1,64,Random (P2),⚔️ Mega Abomasnow ex(350/350 HP) atacou com [Hammer-lanche] o Kyogre(50/150 HP)
+1,65,Random (P2),🏆 PEGOU A CARTA DE PRÊMIO [Carta de Prêmio Fechada]
+1,66,Rule-Based (P1),🔄 Promoveu [Mega Abomasnow ex](350/350 HP) para o Campo Ativo
+1,67,Rule-Based (P1),⚡ Ligou a energia [Carta de Energia] no [Mega Abomasnow ex](350/350 HP)
+1,68,Rule-Based (P1),Passou o turno
+1,69,Random (P2),🃏 Jogou da mão a carta [Carta de Treinador/Pokémon]
+1,70,Random (P2),🃏 Jogou da mão a carta [Carta de Treinador/Pokémon]
+1,71,Random (P2),📥 Selecionou a carta [Carta do Deck/Descarte] para a Mão por efeito de [Mega Signal]
+1,72,Random (P2),⚡ Ligou a energia [Carta de Energia] no [Mega Abomasnow ex](350/350 HP)
+1,73,Random (P2),⚔️ Mega Abomasnow ex(350/350 HP) atacou com [Hammer-lanche] o Mega Abomasnow ex(350/350 HP)
+1,74,Random (P2),🏆 PEGOU A CARTA DE PRÊMIO [Carta de Prêmio Fechada] + 🏆 PEGOU A CARTA DE PRÊMIO [Carta de Prêmio Fechada] + 🏆 PEGOU A CARTA DE PRÊMIO [Carta de Prêmio Fechada]
+1,75,Rule-Based (P1),🔄 Promoveu [Kyogre](150/150 HP) para o Campo Ativo
+1,76,Rule-Based (P1),⚡ Ligou a energia [Carta de Energia] no [Kyogre](150/150 HP)
+1,77,Rule-Based (P1),🃏 Jogou da mão a carta [Carta de Treinador/Pokémon]
+1,78,Rule-Based (P1),⚔️ Kyogre(150/150 HP) atacou com [Riptide] o Mega Abomasnow ex(350/350 HP)
+1,79,Random (P2),⚡ Ligou a energia [Carta de Energia] no [Mega Abomasnow ex](110/350 HP)
+1,80,Random (P2),⚔️ Mega Abomasnow ex(110/350 HP) atacou com [Frost Barrier] o Kyogre(150/150 HP)
+1,81,Random (P2),🏆 PEGOU A CARTA DE PRÊMIO [Carta de Prêmio Fechada]
+1,82,Rule-Based (P1),🔄 Promoveu [Mega Abomasnow ex](350/350 HP) para o Campo Ativo
+1,83,Rule-Based (P1),⚡ Ligou a energia [Carta de Energia] no [Mega Abomasnow ex](350/350 HP)
+1,84,Rule-Based (P1),🃏 Jogou da mão a carta [Carta de Treinador/Pokémon]
+1,85,Rule-Based (P1),🎯 Selecionou a carta [Carta Selecionada] por efeito de [Waitress]
+1,86,Rule-Based (P1),🎯 Selecionou a carta [Carta Selecionada] por efeito de [Basic {W} Energy]
+1,87,Rule-Based (P1),⚔️ Mega Abomasnow ex(350/350 HP) atacou com [Hammer-lanche] o Mega Abomasnow ex(110/350 HP)
+1,88,Rule-Based (P1),🏆 PEGOU A CARTA DE PRÊMIO [Carta de Prêmio Fechada] + 🏆 PEGOU A CARTA DE PRÊMIO [Carta de Prêmio Fechada] + 🏆 PEGOU A CARTA DE PRÊMIO [Carta de Prêmio Fechada]
+1,88,SISTEMA,🏆 FIM DA PARTIDA! Vencedor: Rule-Based (P1) (Motivo: Nocaute do Pokémon Ativo sem reserva no banco / 0 cartas de Prêmio restantes).
+2,1,Rule-Based (P1),Confirmou seleção (Sim/Não)
+2,2,Random (P2),📌 Colocou [Pokémon Básico Inicial] como Pokémon Ativo Inicial
+2,3,Rule-Based (P1),📌 Colocou [Pokémon Básico Inicial] como Pokémon Ativo Inicial
+2,4,Random (P2),NUMBER
+2,5,Rule-Based (P1),⚡ Ligou a energia [Carta de Energia] no [Kyogre](150/150 HP)
+2,6,Rule-Based (P1),Passou o turno
+2,7,Random (P2),⚡ Ligou a energia [Carta de Energia] no [Kyogre](150/150 HP)
+2,8,Random (P2),Passou o turno
+2,9,Rule-Based (P1),🃏 Jogou da mão a carta [Carta de Treinador/Pokémon]
+2,10,Rule-Based (P1),🃏 Jogou da mão a carta [Carta de Treinador/Pokémon]
+2,11,Rule-Based (P1),📥 Selecionou a carta [Carta do Deck/Descarte] para a Mão por efeito de [Mega Signal]
+2,12,Rule-Based (P1),🃏 Jogou da mão a carta [Carta de Treinador/Pokémon]
+2,13,Rule-Based (P1),📥 Selecionou a carta [Carta do Deck/Descarte] para a Mão por efeito de [Mega Signal]
+2,14,Rule-Based (P1),⚡ Ligou a energia [Carta de Energia] no [Kyogre](150/150 HP)
+2,15,Rule-Based (P1),⚔️ Kyogre(150/150 HP) atacou com [Riptide] o Kyogre(150/150 HP)
+2,16,Random (P2),⚡ Ligou a energia [Carta de Energia] no [Kyogre](150/150 HP)
+2,17,Random (P2),⚔️ Kyogre(150/150 HP) atacou com [Riptide] o Kyogre(150/150 HP)
+2,18,Rule-Based (P1),🃏 Jogou da mão a carta [Carta de Treinador/Pokémon]
+2,19,Rule-Based (P1),🎯 Selecionou a carta [Carta Selecionada] por efeito de [Waitress]
+2,20,Rule-Based (P1),🎯 Selecionou a carta [Carta Selecionada] por efeito de [Basic {W} Energy]
+2,21,Rule-Based (P1),⚡ Ligou a energia [Carta de Energia] no [Kyogre](150/150 HP)
+2,22,Rule-Based (P1),⚔️ Kyogre(150/150 HP) atacou com [Riptide] o Kyogre(150/150 HP)
+2,23,Random (P2),⚡ Ligou a energia [Carta de Energia] no [Kyogre](150/150 HP)
+2,24,Random (P2),⚔️ Kyogre(150/150 HP) atacou com [Swirling Waves] o Kyogre(150/150 HP)
+2,25,Random (P2),ENERGY
+2,26,Random (P2),ENERGY
+2,27,Rule-Based (P1),⚡ Ligou a energia [Carta de Energia] no [Kyogre](20/150 HP)
+2,28,Rule-Based (P1),🃏 Jogou da mão a carta [Carta de Treinador/Pokémon]
+2,29,Rule-Based (P1),⚔️ Kyogre(20/150 HP) atacou com [Riptide] o Kyogre(150/150 HP)
+2,30,Random (P2),⚡ Ligou a energia [Carta de Energia] no [Kyogre](150/150 HP)
+2,31,Random (P2),Passou o turno
+2,32,Rule-Based (P1),🧬 Evoluiu o [Snover](90/90 HP) para [Pokémon Evoluído]
+2,33,Rule-Based (P1),⚡ Ligou a energia [Carta de Energia] no [Kyogre](20/150 HP)
+2,34,Rule-Based (P1),⚔️ Kyogre(20/150 HP) atacou com [Riptide] o Kyogre(150/150 HP)
+2,35,Random (P2),Passou o turno
+2,36,Rule-Based (P1),⚡ Ligou a energia [Carta de Energia] no [Kyogre](20/150 HP)
+2,37,Rule-Based (P1),⚔️ Kyogre(20/150 HP) atacou com [Riptide] o Kyogre(150/150 HP)
+2,38,Random (P2),🃏 Jogou da mão a carta [Carta de Treinador/Pokémon]
+2,39,Random (P2),📥 Selecionou a carta [Carta do Deck/Descarte] para a Mão por efeito de [Mega Signal]
+2,40,Random (P2),⚔️ Kyogre(150/150 HP) atacou com [Riptide] o Kyogre(20/150 HP)
+2,41,Random (P2),🏆 PEGOU A CARTA DE PRÊMIO [Carta de Prêmio Fechada]
+2,42,Rule-Based (P1),🔄 Promoveu [Mega Abomasnow ex](350/350 HP) para o Campo Ativo
+2,43,Rule-Based (P1),⚡ Ligou a energia [Carta de Energia] no [Mega Abomasnow ex](350/350 HP)
+2,44,Rule-Based (P1),🃏 Jogou da mão a carta [Carta de Treinador/Pokémon]
+2,45,Rule-Based (P1),Passou o turno
+2,46,Random (P2),⚡ Ligou a energia [Carta de Energia] no [Kyogre](150/150 HP)
+2,47,Random (P2),Passou o turno
+2,48,Rule-Based (P1),🧬 Evoluiu o [Snover](90/90 HP) para [Pokémon Evoluído]
+2,49,Rule-Based (P1),⚡ Ligou a energia [Carta de Energia] no [Mega Abomasnow ex](350/350 HP)
+2,50,Rule-Based (P1),⚔️ Mega Abomasnow ex(350/350 HP) atacou com [Hammer-lanche] o Kyogre(150/150 HP)
+2,51,Rule-Based (P1),🏆 PEGOU A CARTA DE PRÊMIO [Carta de Prêmio Fechada]
+2,51,SISTEMA,🏆 FIM DA PARTIDA! Vencedor: Rule-Based (P1) (Motivo: Nocaute do Pokémon Ativo sem reserva no banco / 0 cartas de Prêmio restantes).
+3,1,Rule-Based (P1),Confirmou seleção (Sim/Não)
+3,2,Rule-Based (P1),📌 Colocou [Pokémon Básico Inicial] como Pokémon Ativo Inicial
+3,3,Random (P2),📌 Colocou [Pokémon Básico Inicial] como Pokémon Ativo Inicial
+3,4,Random (P2),📌 Colocou [Pokémon Básico Inicial] no Banco no Setup
+3,5,Rule-Based (P1),⚡ Ligou a energia [Carta de Energia] no [Snover](90/90 HP)
+3,6,Rule-Based (P1),Passou o turno
+3,7,Random (P2),Passou o turno
+3,8,Rule-Based (P1),🃏 Jogou da mão a carta [Carta de Treinador/Pokémon]
+3,9,Rule-Based (P1),🎯 Selecionou a carta [Carta Selecionada] por efeito de [Waitress]
+3,10,Rule-Based (P1),🎯 Selecionou a carta [Carta Selecionada] por efeito de [Basic {W} Energy]
+3,11,Rule-Based (P1),⚡ Ligou a energia [Carta de Energia] no [Snover](90/90 HP)
+3,12,Rule-Based (P1),🧬 Evoluiu o [Snover](90/90 HP) para [Pokémon Evoluído]
+3,13,Rule-Based (P1),⚔️ Mega Abomasnow ex(350/350 HP) atacou com [Hammer-lanche] o Kyogre(150/150 HP)
+3,14,Rule-Based (P1),🏆 PEGOU A CARTA DE PRÊMIO [Carta de Prêmio Fechada]
+3,15,Random (P2),🔄 Promoveu [Snover](90/90 HP) para o Campo Ativo
+3,16,Random (P2),🧬 Evoluiu o [Snover](90/90 HP) para [Pokémon Evoluído]
+3,17,Random (P2),⚡ Ligou a energia [Carta de Energia] no [Mega Abomasnow ex](350/350 HP)
+3,18,Random (P2),🃏 Jogou da mão a carta [Carta de Treinador/Pokémon]
+3,19,Random (P2),🎯 Selecionou a carta [Carta Selecionada] por efeito de [Waitress]
+3,20,Random (P2),🎯 Selecionou a carta [Carta Selecionada] por efeito de [Basic {W} Energy]
+3,21,Random (P2),Passou o turno
+3,22,Rule-Based (P1),⚡ Ligou a energia [Carta de Energia] no [Mega Abomasnow ex](350/350 HP)
+3,23,Rule-Based (P1),⚔️ Mega Abomasnow ex(350/350 HP) atacou com [Hammer-lanche] o Mega Abomasnow ex(350/350 HP)
+3,24,Random (P2),⚡ Ligou a energia [Carta de Energia] no [Mega Abomasnow ex](150/350 HP)
+3,25,Random (P2),Passou o turno
+3,26,Rule-Based (P1),⚡ Ligou a energia [Carta de Energia] no [Mega Abomasnow ex](350/350 HP)
+3,27,Rule-Based (P1),⚔️ Mega Abomasnow ex(350/350 HP) atacou com [Hammer-lanche] o Mega Abomasnow ex(150/350 HP)
+3,28,Rule-Based (P1),🏆 PEGOU A CARTA DE PRÊMIO [Carta de Prêmio Fechada] + 🏆 PEGOU A CARTA DE PRÊMIO [Carta de Prêmio Fechada] + 🏆 PEGOU A CARTA DE PRÊMIO [Carta de Prêmio Fechada]
+3,28,SISTEMA,🏆 FIM DA PARTIDA! Vencedor: Rule-Based (P1) (Motivo: Nocaute do Pokémon Ativo sem reserva no banco / 0 cartas de Prêmio restantes).

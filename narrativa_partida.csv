@@ -1,0 +1,99 @@
+Partida,Turno,Jogador,Narração da Jogada
+1,1,Rule-Based (P1),YES
+1,2,Random (P2),SELECIONOU CARTA
+1,3,Rule-Based (P1),SELECIONOU CARTA
+1,4,Random (P2),NUMBER
+1,5,Rule-Based (P1),⚡ LIGOU ENERGIA
+1,6,Rule-Based (P1),🃏 JOGOU DA MÃO
+1,7,Rule-Based (P1),PASSOU O TURNO
+1,8,Random (P2),PASSOU O TURNO
+1,9,Rule-Based (P1),🃏 JOGOU DA MÃO
+1,10,Rule-Based (P1),🃏 JOGOU DA MÃO
+1,11,Rule-Based (P1),⚡ LIGOU ENERGIA
+1,12,Rule-Based (P1),🧬 EVOLUIU POKÉMON
+1,13,Rule-Based (P1),⚔️ ATACOU com o Pokémon Ativo!
+1,14,Rule-Based (P1),SELECIONOU CARTA
+1,14,SISTEMA,🏆 Vencedor da Partida: Rule-Based (P1)
+2,1,Rule-Based (P1),YES
+2,2,Random (P2),SELECIONOU CARTA
+2,3,Rule-Based (P1),SELECIONOU CARTA
+2,4,Random (P2),NUMBER
+2,5,Rule-Based (P1),SELECIONOU CARTA
+2,6,Random (P2),SELECIONOU CARTA
+2,7,Rule-Based (P1),⚡ LIGOU ENERGIA
+2,8,Rule-Based (P1),🃏 JOGOU DA MÃO
+2,9,Rule-Based (P1),SELECIONOU CARTA
+2,10,Rule-Based (P1),🃏 JOGOU DA MÃO
+2,11,Rule-Based (P1),PASSOU O TURNO
+2,12,Random (P2),⚡ LIGOU ENERGIA
+2,13,Random (P2),PASSOU O TURNO
+2,14,Rule-Based (P1),⚡ LIGOU ENERGIA
+2,15,Rule-Based (P1),🧬 EVOLUIU POKÉMON
+2,16,Rule-Based (P1),🧬 EVOLUIU POKÉMON
+2,17,Rule-Based (P1),🃏 JOGOU DA MÃO
+2,18,Rule-Based (P1),⚔️ ATACOU com o Pokémon Ativo!
+2,19,Rule-Based (P1),SELECIONOU CARTA
+2,20,Random (P2),SELECIONOU CARTA
+2,21,Random (P2),⚡ LIGOU ENERGIA
+2,22,Random (P2),🃏 JOGOU DA MÃO
+2,23,Random (P2),SELECIONOU CARTA
+2,24,Random (P2),⚔️ ATACOU com o Pokémon Ativo!
+2,25,Rule-Based (P1),⚡ LIGOU ENERGIA
+2,26,Rule-Based (P1),🃏 JOGOU DA MÃO
+2,27,Rule-Based (P1),SELECIONOU CARTA
+2,28,Rule-Based (P1),SELECIONOU CARTA
+2,29,Rule-Based (P1),⚔️ ATACOU com o Pokémon Ativo!
+2,30,Rule-Based (P1),SELECIONOU CARTA
+2,30,SISTEMA,🏆 Vencedor da Partida: Rule-Based (P1)
+3,1,Rule-Based (P1),YES
+3,2,Rule-Based (P1),SELECIONOU CARTA
+3,3,Random (P2),SELECIONOU CARTA
+3,4,Rule-Based (P1),SELECIONOU CARTA
+3,5,Rule-Based (P1),⚡ LIGOU ENERGIA
+3,6,Rule-Based (P1),PASSOU O TURNO
+3,7,Random (P2),🃏 JOGOU DA MÃO
+3,8,Random (P2),SELECIONOU CARTA
+3,9,Random (P2),⚡ LIGOU ENERGIA
+3,10,Random (P2),PASSOU O TURNO
+3,11,Rule-Based (P1),🃏 JOGOU DA MÃO
+3,12,Rule-Based (P1),⚡ LIGOU ENERGIA
+3,13,Rule-Based (P1),🧬 EVOLUIU POKÉMON
+3,14,Rule-Based (P1),🃏 JOGOU DA MÃO
+3,15,Rule-Based (P1),⚔️ ATACOU com o Pokémon Ativo!
+3,16,Random (P2),🧬 EVOLUIU POKÉMON
+3,17,Random (P2),⚡ LIGOU ENERGIA
+3,18,Random (P2),🃏 JOGOU DA MÃO
+3,19,Random (P2),⚡ LIGOU ENERGIA
+3,20,Random (P2),⚔️ ATACOU com o Pokémon Ativo!
+3,21,Random (P2),SELECIONOU CARTA
+3,22,Rule-Based (P1),SELECIONOU CARTA
+3,23,Rule-Based (P1),⚡ LIGOU ENERGIA
+3,24,Rule-Based (P1),🃏 JOGOU DA MÃO
+3,25,Rule-Based (P1),PASSOU O TURNO
+3,26,Random (P2),⚡ LIGOU ENERGIA
+3,27,Random (P2),🃏 JOGOU DA MÃO
+3,28,Random (P2),⚔️ ATACOU com o Pokémon Ativo!
+3,29,Rule-Based (P1),⚡ LIGOU ENERGIA
+3,30,Rule-Based (P1),⚔️ ATACOU com o Pokémon Ativo!
+3,31,Rule-Based (P1),SELECIONOU CARTA + SELECIONOU CARTA + SELECIONOU CARTA
+3,32,Random (P2),SELECIONOU CARTA
+3,33,Random (P2),🃏 JOGOU DA MÃO
+3,34,Random (P2),PASSOU O TURNO
+3,35,Rule-Based (P1),⚡ LIGOU ENERGIA
+3,36,Rule-Based (P1),🃏 JOGOU DA MÃO
+3,37,Rule-Based (P1),🃏 JOGOU DA MÃO
+3,38,Rule-Based (P1),SELECIONOU CARTA
+3,39,Rule-Based (P1),🃏 JOGOU DA MÃO
+3,40,Rule-Based (P1),🃏 JOGOU DA MÃO
+3,41,Rule-Based (P1),⚔️ ATACOU com o Pokémon Ativo!
+3,42,Rule-Based (P1),SELECIONOU CARTA
+3,43,Random (P2),SELECIONOU CARTA
+3,44,Random (P2),⚡ LIGOU ENERGIA
+3,45,Random (P2),⚔️ ATACOU com o Pokémon Ativo!
+3,46,Rule-Based (P1),⚡ LIGOU ENERGIA
+3,47,Rule-Based (P1),🃏 JOGOU DA MÃO
+3,48,Rule-Based (P1),SELECIONOU CARTA
+3,49,Rule-Based (P1),SELECIONOU CARTA
+3,50,Rule-Based (P1),⚔️ ATACOU com o Pokémon Ativo!
+3,51,Rule-Based (P1),SELECIONOU CARTA
+3,51,SISTEMA,🏆 Vencedor da Partida: Rule-Based (P1)

@@ -1,0 +1,74 @@
+{
+  "hp:5|opp_hp:5|prizes:6-6|e:0": {
+    "ATTACK": 49.9967
+  },
+  "hp:5|opp_hp:5|prizes:6-6|opts:2": {
+    "ATTACK": 68.9904
+  },
+  "hp:5|opp_hp:5|prizes:6-6|opts:4": {
+    "ATTACK": 69.2538
+  },
+  "hp:5|opp_hp:5|prizes:6-6|opts:1": {
+    "ATTACK": 69.2148
+  },
+  "hp:5|opp_hp:5|prizes:6-6|opts:9": {
+    "ATTACK": 61.4057
+  },
+  "hp:5|opp_hp:5|prizes:6-6|opts:12": {
+    "ATTACK": 60.9089
+  },
+  "hp:5|opp_hp:5|prizes:6-6|opts:10": {
+    "ATTACK": 55.5144
+  },
+  "hp:5|opp_hp:5|prizes:6-6|opts:5": {
+    "ATTACK": 67.3465
+  },
+  "hp:5|opp_hp:5|prizes:6-6|opts:3": {
+    "ATTACK": 67.7518
+  },
+  "hp:5|opp_hp:5|prizes:6-6|opts:6": {
+    "ATTACK": 68.1679
+  },
+  "hp:5|opp_hp:5|prizes:6-6|opts:7": {
+    "ATTACK": 64.4053
+  },
+  "hp:5|opp_hp:5|prizes:6-6|opts:8": {
+    "ATTACK": 66.7979
+  },
+  "hp:5|opp_hp:5|prizes:6-6|opts:11": {
+    "ATTACK": 64.0313
+  },
+  "hp:5|opp_hp:5|prizes:6-6|opts:13": {
+    "ATTACK": 57.3839
+  },
+  "hp:5|opp_hp:5|prizes:6-6|opts:20": {
+    "ATTACK": 31.8385
+  },
+  "hp:5|opp_hp:5|prizes:6-6|opts:22": {
+    "ATTACK": 19.1854
+  },
+  "hp:5|opp_hp:5|prizes:6-6|opts:19": {
+    "ATTACK": 22.4244
+  },
+  "hp:5|opp_hp:5|prizes:6-6|opts:15": {
+    "ATTACK": 22.9657
+  },
+  "hp:5|opp_hp:5|prizes:6-6|opts:31": {
+    "ATTACK": 6.5386
+  },
+  "hp:5|opp_hp:5|prizes:6-6|opts:23": {
+    "ATTACK": 18.6559
+  },
+  "hp:5|opp_hp:5|prizes:6-6|opts:18": {
+    "ATTACK": 19.9548
+  },
+  "hp:5|opp_hp:5|prizes:6-6|opts:14": {
+    "ATTACK": 51.5245
+  },
+  "hp:5|opp_hp:5|prizes:6-6|opts:17": {
+    "ATTACK": 44.2982
+  },
+  "hp:5|opp_hp:5|prizes:6-6|opts:16": {
+    "ATTACK": 12.5171
+  }
+}
