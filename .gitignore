@@ -1,0 +1,9 @@
+ptcg_engine/
+sample_submission/
+__pycache__/
+Card_ID List_EN_.pdf
+EN Card Data.csv
+LICENSES/
+.venv/
+src/
+test_agent.py
