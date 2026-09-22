@@ -7,3 +7,5 @@ LICENSES/
 .venv/
 src/
 test_agent.py
+calcular.py
+graficos.py

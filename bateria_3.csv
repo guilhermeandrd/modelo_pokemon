@@ -1,0 +1,4 @@
+Bateria,Confronto,Vitórias P1,Vitórias P2,Média Turnos
+3,Rule-Based vs Random,Rule-Based (81),Random (19),43.4
+3,Q-learning vs Random,Q-learning (74),Random (24),43.2
+3,Rule-Based vs Q-learning,Rule-Based (63),Q-learning (37),41.6
